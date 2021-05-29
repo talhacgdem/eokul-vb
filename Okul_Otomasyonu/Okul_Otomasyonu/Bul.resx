@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="BindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>316, 17</value>
+  </metadata>
+  <metadata name="DataSet11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>446, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlzAAALBgAA
+        CwYBZDTpJAAAAbdJREFUWEe1l81twkAQhZMOXALHnCIKyAFRgUuggNQQWWnASgUugQ7iC3dKoATSAXnP
+        3oWR8e7OrNdIIxmY9ft2fvbn9SXx2X+ftnDpYVXKd/L/H77//H59NMZxD3eKw66w2wI7ZgHMiJ/x205p
+        Nfzo78EPJojAzJkG9QfvqGAXB9FZBobCbgKgIMR7B6Abm8i57iViqg6AqRgK+O39cwPb0Z4ioii4HIBW
+        iLcQvgm74JkdNoRKU+1mAD9LCHUTcQ/Sa8VZzVkAEfEBggDaPjcvKClxD+B7lcXCqp2zVt1GzlEjDp8h
+        BR7guTKtqjbxMwCq4gDKmY/irgOKRcAsXhIgS7wUQLZ4CYBF4ksBIN4EVji55D4Kbq6rlrQhxK8JgLh4
+        gQjImU6f7+KYZB1cUnIiILbVUASkeBfdRzIBuLX2sMNMCqQ4t+P4RmYF4Aomcs9ttnYwBCLYuMKN23z6
+        RJQBMK18Hiw2gQJfBYCCLDjmnxGYFV8lAi7nFGYU7qEOVXjxFEB0a9mhiwNYxHNSYD71xIDUFxM4HkUn
+        sG+116+Yn/5qpjySr3s5dRAyEksE/VietptU3fwDg9Olfi7v5JAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <metadata name="OleDbSelectCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbSelectCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbSelectCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="OleDbConnection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>170, 17</value>
+  </metadata>
+  <metadata name="OleDbInsertCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbInsertCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbInsertCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="OleDbUpdateCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbUpdateCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbUpdateCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <data name="OleDbUpdateCommand1.CommandText" xml:space="preserve">
+    <value>UPDATE `Hızlı_Kayıt` SET `NUMARASI` = ?, `AD` = ?, `SOY` = ?, `CIN` = ?, `SINF` = ?, `SUBE` = ?, `BOLUM` = ?, `DAL` = ?, `DIL` = ?, `YIL` = ?, `DONEM` = ?, `OKUL` = ?, `RESIM` = ? WHERE ((`NUMARASI` = ?) AND ((? = 1 AND `AD` IS NULL) OR (`AD` = ?)) AND ((? = 1 AND `SOY` IS NULL) OR (`SOY` = ?)) AND ((? = 1 AND `CIN` IS NULL) OR (`CIN` = ?)) AND ((? = 1 AND `SINF` IS NULL) OR (`SINF` = ?)) AND ((? = 1 AND `SUBE` IS NULL) OR (`SUBE` = ?)) AND ((? = 1 AND `BOLUM` IS NULL) OR (`BOLUM` = ?)) AND ((? = 1 AND `DAL` IS NULL) OR (`DAL` = ?)) AND ((? = 1 AND `DIL` IS NULL) OR (`DIL` = ?)) AND ((? = 1 AND `YIL` IS NULL) OR (`YIL` = ?)) AND ((? = 1 AND `DONEM` IS NULL) OR (`DONEM` = ?)) AND ((? = 1 AND `OKUL` IS NULL) OR (`OKUL` = ?)) AND ((? = 1 AND `RESIM` IS NULL) OR (`RESIM` = ?)))</value>
+  </data>
+  <metadata name="OleDbDeleteCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbDeleteCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="OleDbDeleteCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <data name="OleDbDeleteCommand1.CommandText" xml:space="preserve">
+    <value>DELETE FROM `Hızlı_Kayıt` WHERE ((`NUMARASI` = ?) AND ((? = 1 AND `AD` IS NULL) OR (`AD` = ?)) AND ((? = 1 AND `SOY` IS NULL) OR (`SOY` = ?)) AND ((? = 1 AND `CIN` IS NULL) OR (`CIN` = ?)) AND ((? = 1 AND `SINF` IS NULL) OR (`SINF` = ?)) AND ((? = 1 AND `SUBE` IS NULL) OR (`SUBE` = ?)) AND ((? = 1 AND `BOLUM` IS NULL) OR (`BOLUM` = ?)) AND ((? = 1 AND `DAL` IS NULL) OR (`DAL` = ?)) AND ((? = 1 AND `DIL` IS NULL) OR (`DIL` = ?)) AND ((? = 1 AND `YIL` IS NULL) OR (`YIL` = ?)) AND ((? = 1 AND `DONEM` IS NULL) OR (`DONEM` = ?)) AND ((? = 1 AND `OKUL` IS NULL) OR (`OKUL` = ?)) AND ((? = 1 AND `RESIM` IS NULL) OR (`RESIM` = ?)))</value>
+  </data>
+  <metadata name="OleDbDataAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

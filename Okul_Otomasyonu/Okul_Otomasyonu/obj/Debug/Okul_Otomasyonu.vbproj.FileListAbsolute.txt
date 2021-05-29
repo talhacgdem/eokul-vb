@@ -1,0 +1,223 @@
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\veri.accdb
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.xml
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.Cache
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+G:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\veri.accdb
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.xml
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+F:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.xml
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.xml
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+C:\Documents and Settings\user\Belgelerim\Alınan Dosyalarım\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.Cache
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.xml
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+J:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.Cache
+K:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+K:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+K:\25.05.2011__FLASH\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+D:\Ertuğrul T\C++ C# MATLAB\Lisede Yapılan Projeler\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+D:\Ertuğrul T\C++ C# MATLAB\Lisede Yapılan Projeler\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+D:\Ertuğrul T\C++ C# MATLAB\Lisede Yapılan Projeler\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbprojAssemblyReference.cache
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.cache
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+C:\Users\metin\Desktop\126 Çağrıhan ÖZDEMİR\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbprojAssemblyReference.cache
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.cache
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+C:\Users\metin\Desktop\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbprojAssemblyReference.cache
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ana_tablo.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Belge_sec.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgi.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bilgiler.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Bul.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ders_Girişi.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.devamsızlık.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.durumu.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Gelen_Giden.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Hızlı_Kayıt.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.kullanıcı_değişim.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.LISANS_İSLEMLERI.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Resources.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_gelen.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Nakil_Giden.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Not_Girişi.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Ogrenci_Belgesi.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Veli.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.yazdırma.resources
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.vbproj.GenerateResource.cache
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.xml
+C:\Users\fbahm\OneDrive\Masaüstü\e-okul\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
