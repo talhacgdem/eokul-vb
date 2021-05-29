@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Okul_Otomasyonu
+</name>
+</assembly>
+<members>
+<member name="T:Okul_Otomasyonu.DataSet2.Not_GirişiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet2.Not_GirişiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet2.Not_GirişiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Hızlı_KayıtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.BilgilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.VeliDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Not_GirişiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.DevamsızlıkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GelenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GidenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Hızlı_KayıtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.BilgilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.VeliRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Not_GirişiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.DevamsızlıkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GelenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GidenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Hızlı_KayıtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.BilgilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.VeliRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Not_GirişiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.DevamsızlıkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GelenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1.Nakil_GidenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Okul_Otomasyonu.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
